@@ -1,12 +1,11 @@
 ### Hi there 👋
-
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="240" height="180"></img>
 </div>
 
 - 🔭 I’m currently working on a NodeJS project focused on tracking users sleep patterns and habits
 - 🌱 I’m currently learning how to develop for the AWS cloud and studying for the CompTIA Security+
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/keith-bates-technology/">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/keith-bates-technology/" type="link" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 
 <!--
