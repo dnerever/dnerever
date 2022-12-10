@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+    <iframe src="https://giphy.com/embed/l0HlNaQ6gWfllcjDO" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/90s-80s-illustration-l0HlNaQ6gWfllcjDO">via GIPHY</a></p>
+</div>
+
+- 🔭 I’m currently working on a NodeJS project focused on tracking users sleep patterns and habits
+- 🌱 I’m currently learning how to develop for the AWS cloud and studying for the CompTIA Security+
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/keith-bates-technology/">LinkedIn</a>
+
+
 <!--
 **dnerever/dnerever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
