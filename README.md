@@ -1,5 +1,5 @@
 
-<div id="header" align="center" style="border-heght: 10;">
+<div id="header" align="center" style="border-heght: 0;">
     <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="90" height="90"></img>
 </div>
 
@@ -8,7 +8,7 @@
 
 ### Hi there 👋, I'm Keith, aka dnerever
 </div>
-
+<hr>
 
 
 - 🔭 I’m currently working on a NodeJS project focused on tracking users sleep patterns and habits
