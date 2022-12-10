@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-    <iframe src="https://giphy.com/embed/l0HlNaQ6gWfllcjDO" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/90s-80s-illustration-l0HlNaQ6gWfllcjDO">via GIPHY</a></p>
+    <img src="https://giphy.com/embed/l0HlNaQ6gWfllcjDO" width="480" height="360"></img><p><a href="https://giphy.com/gifs/90s-80s-illustration-l0HlNaQ6gWfllcjDO">via GIPHY</a></p>
 </div>
 
 - 🔭 I’m currently working on a NodeJS project focused on tracking users sleep patterns and habits
