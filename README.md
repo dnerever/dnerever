@@ -8,7 +8,7 @@
 
 ### Hi there 👋, I'm Keith, aka dnerever
 </div>
-<hr>
+<hr style="border: 1;">
 
 
 - 🔭 I’m currently working on a NodeJS project focused on tracking users sleep patterns and habits
