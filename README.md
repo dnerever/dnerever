@@ -6,7 +6,7 @@
 <body>
 <div id="header" align="center">
 
-### Hi there 👋, I'm Keith, aka dnerever
+### Hi there 👋, I'm Keith
 </div>
 <hr style="border: 1;">
 
