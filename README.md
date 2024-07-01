@@ -11,9 +11,9 @@
 <hr style="border: 1;">
 
 
-- 🔭 I’m currently working on a NodeJS project focused on tracking users sleep patterns and habits
-- 🌱 I’m currently learning how to develop for the AWS cloud and studying for the CompTIA Security+
-- 💬 Ask me about Cycling, Taekwondo, Finance, and Ethereum
+- 🔭 I’m currently working on a TypeScript and React based E-commerce project
+- 🌱 I’m also learning how to develop for the AWS cloud and studying for the CompTIA Security+
+- 💬 Ask me about Cycling, Finance, and Ethereum
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/keith-bates-technology/" type="link" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" style="vertical-align: middle;"></a>
 
 </body>
