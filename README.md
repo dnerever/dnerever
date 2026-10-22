@@ -53,7 +53,7 @@ I enjoy solving problems at the intersection of security, automation, and softwa
 
 ### 🏆 Hackathons
 
-- **LambdaConf 2024**: won the DBOS track with a TypeScript matching engine
+- **LambdaConf 2024**: Co-built an order matching engine on DBOS Cloud, a transactional serverless platform, for the DBOS sponsor track
 - **HackCU 2023**: EyeQCheck, an at-home vision test using image recognition
 - **T9 Hackathon 2023**: Ace Analyzer, a blackjack trainer
 
