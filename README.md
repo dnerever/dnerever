@@ -1,22 +1,21 @@
 <div align="center">
     <h2>Hi, I'm Keith 👋</h2>
-    <p>Software Engineer · C#/.NET · SQL · Application Security</p>
+    <p>Full-stack software engineer · C#/.NET · TypeScript · SQL</p>
 </div>
 
 <hr>
 
 ### 🧑‍💻 About Me
 
-I build software for financial systems: currently regulatory reporting applications in **C#/.NET** and **SQL Server**. Previously I built security automation and API integrations for cybersecurity teams using **Python** and **Microsoft Power Platform**.
-
-I enjoy solving problems at the intersection of security, automation, and software engineering.
+I build software for financial systems: currently the C#/.NET and SQL Server apps behind my firm's daily money movement. On the side I build full-stack TypeScript projects with real test suites. Previously, security automation and API integrations for cybersecurity teams.
 
 <hr>
 
 ### 🔭 What I'm Working On
 
-- **[OpenRecipe](https://github.com/dnerever/OpenRecipe)**: version control for recipes. Fork a recipe, change it, and propose the change back (TypeScript · React · Hono · Postgres)
-- **DonorEngine**: a rule-based donor-matching engine for nonprofits. It ingests donor history (dates, amounts, addresses) and decides what to mail and when, using AI-generated copy and AI-checked donation amounts. Built in 24 hours (TypeScript)
+- **[Open Skillet](https://openskillet.com)**: version control for recipes. Fork a recipe, change it, and propose the change back (TypeScript · React · Node.js · Postgres)
+- **DonorEngine**: plans per-donor direct mail for nonprofits from a CRM export. Rules set every amount and date; an LLM writes the copy and every AI line passes a grounding check. In-browser prediction model tested against baselines. Built solo in 24 hours (TypeScript).
+- **[weather-app](https://github.com/dnerever/weather-app)**: a .NET 10 Blazor Server weather app with xUnit tests
 - Building CI/CD pipelines with automated testing in **GitHub Actions**
 
 <hr>
@@ -29,15 +28,17 @@ I enjoy solving problems at the intersection of security, automation, and softwa
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 **Web**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+**Also**
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 **Cloud & Tooling**
 
@@ -57,4 +58,4 @@ I enjoy solving problems at the intersection of security, automation, and softwa
 <hr>
 
 ### 💬 Ask Me About
-Application Security · Security Automation · Finance
+Full-stack development · Application security · Finance
