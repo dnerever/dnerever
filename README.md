@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-I build software for financial systems: currently the C#/.NET and SQL Server apps behind my firm's daily money movement. On the side I build full-stack TypeScript projects with real test suites. Previously, security automation and API integrations for cybersecurity teams.
+I build software for financial systems: currently C#/.NET and SQL Server apps. On the side I build full-stack TypeScript projects with real test suites. Previously, security automation and API integrations for cybersecurity teams.
 
 <hr>
 
