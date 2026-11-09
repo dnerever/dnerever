@@ -13,8 +13,8 @@ I build software for financial systems: currently C#/.NET and SQL Server apps. O
 
 ### 🔭 What I'm Working On
 
-- **[Open Skillet](https://openskillet.com)**: version control for recipes. Fork a recipe, change it, and propose the change back (TypeScript · React · Node.js · Postgres)
-- **DonorEngine**: plans per-donor direct mail for nonprofits from a CRM export. Rules set every amount and date; an LLM writes the copy and every AI line passes a grounding check. In-browser prediction model tested against baselines. Built solo in 24 hours (TypeScript).
+- **OpenSkillet** ([source](https://github.com/dnerever/OpenSkillet) · [live demo](https://openskillet.com)): version control for recipes. Fork a recipe, change it, and propose the change back (TypeScript · React · Node.js · Postgres)
+- **DonorEngine** ([live demo](https://donorengine.onrender.com) · source repository is private): plans per-donor direct mail for nonprofits from a CRM export. Rules set every amount and date; an LLM writes the copy and every AI line passes a grounding check. In-browser prediction model tested against baselines. Built solo in 24 hours (TypeScript).
 - **[weather-app](https://github.com/dnerever/weather-app)**: a .NET 10 Blazor Server weather app with xUnit tests
 - Building CI/CD pipelines with automated testing in **GitHub Actions**
 
